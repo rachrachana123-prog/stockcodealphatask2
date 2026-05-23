@@ -1,0 +1,6 @@
+My Stock Portfolio
+-------------------------
+ITC - 5 shares @ 450 = 2250
+TCS - 3 shares @ 3600 = 10800
+
+Total Investment: 13050
